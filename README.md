@@ -3,7 +3,7 @@
 A chaotic, colorful 2D marble simulation game where marbles battle for territory, power, and glory.  
 Inspired by Mikan’s territory war videos — but with a twist of personality, physics, and player interaction!
 
-[![Watch the Demo](https://www.youtube.com/watch?v=TyBNOLfH2rI&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=TyBNOLfH2rI&t)
+[![Watch the Demo](https://img.youtube.com/vi/TyBNOLfH2rI&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=TyBNOLfH2rI&t)
 
 ---
 
